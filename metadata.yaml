@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5809'
     url: http://www.gutenberg.org/2009/agents/5809
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15036#Narrative-of-the-Life-of-Moses-Grandy-Late-a-Slave-in-the-United-States-of-America
 gutenberg_issued: '2005-02-13'
 gutenberg_type: Text
 identifiers:
