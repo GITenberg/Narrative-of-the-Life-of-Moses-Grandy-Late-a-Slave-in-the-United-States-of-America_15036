@@ -1,0 +1,26 @@
+_repo: Narrative-of-the-Life-of-Moses-Grandy-Late-a-Slave-in-the-United-States-of-America_15036
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grandy, Moses
+    gutenberg_agent_id: '5809'
+    url: http://www.gutenberg.org/2009/agents/5809
+description: ''
+gutenberg_issued: '2005-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15036'
+  lccn: '11006095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- North Carolina'
+- !lcc 'E300'
+title: Narrative of the Life of Moses Grandy, Late a Slave in the United States of
+  America
+url: http://www.gutenberg.org/ebooks/15036
